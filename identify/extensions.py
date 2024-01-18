@@ -52,6 +52,7 @@ EXTENSIONS = {
     'dbc': {'text', 'dbc'},
     'def': {'text', 'def'},
     'dll': {'binary'},
+    'dockerfile': {'text', 'dockerfile'},
     'dtd': {'text', 'dtd'},
     'ear': {'binary', 'zip', 'jar'},
     'edn': {'text', 'clojure', 'edn'},
